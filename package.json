@@ -1,0 +1,24 @@
+{
+  "name": "simpleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "panduka wijekoon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^3.4.1",
+    "dateformat": "^3.0.3",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-partials": "^0.3.0",
+    "jquery": "^3.4.1",
+    "mysql": "^2.17.1",
+    "popper.js": "^1.14.7",
+    "tether": "^1.4.6"
+  }
+}
